@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoneo56
-- 👀 I’m interested ... in FNF modding
-- 🌱 I’m currently learning ... Lua
+- 👀 I’m interested in FNF modding
+- 🌱 I’m currently learning Lua
 - hooplah
 
 <!---
